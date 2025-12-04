@@ -1,41 +1,52 @@
 # 🍳 Cooking Masterclass Catalogue
 
-A simple single-page Vue.js application that displays a catalogue of cooking courses.  
-Users can browse available classes, view their chef, skill level, and price, and save courses to a wishlist.  
-This project was built for **Module 1 – Frontend Web Development (Exercise 01)**.
+This is a small Vue.js project I built for the Module 1 Frontend Web Development exercise.
+The app shows a list of cooking classes. Each class has a title, chef name, level, and price.
+You can also see if a class is sold out, and you can save classes to a wishlist.
+
+How to run the project
+
+Install packages:
+
+npm install
+
+
+Start the development server:
+
+npm run dev
+
 
 ---
 
 ## 📸 Screenshot
 
-![App Screeshot](C:\Users\38195682\first-app\src\assets\Screenshot (264).png)
+![App Screenshot](src/assets/Screenshot (264).png)
 
 ---
 
 ## 🚀 Features
 
-- Dynamic list of courses (no duplicated hard-coded HTML)
-- Course details: **title, chef, level, price**
-- “Sold Out” label for unavailable courses
-- Save courses to a **wishlist**
-- Live wishlist count visible in the header
-- Responsive card layout
-- Clean, minimal styling
-- Vue 3 **Options API** (beginner friendly)
-- Component-based structure
+- Course cards shown on the page
 
----
+- Wishlist feature (the number updates when you save a course)
 
-## 🛠️ Tech Stack
+- Sold out classes show a message
 
-- **Vue 3**
-- **Vite**
-- **JavaScript (Options API)**
-- **HTML & CSS**
+- Responsive layout
+
+- Basic styling
+
+- Components used for structure (Header, Course List, Course Card)
 
 ---
 
 ## 📁 Project Structure
+- src/
+  components/
+  data/
+  App.vue
+  main.js
 
+---
 
 

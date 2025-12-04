@@ -30,7 +30,7 @@ export default {
         { 
           id: 1, 
           title: "Beginner Cooking Basics",
-          chef: "Chef Lila M",
+          chef: "Chef Nobubele K",
           price: 299,
           level: "Beginner",
           soldOut: false
@@ -38,7 +38,7 @@ export default {
         { 
           id: 2, 
           title: "Sushi Mastery",
-          chef: "Chef Tanaka",
+          chef: "Chef Tsunoda ",
           price: 450,
           level: "Advanced",
           soldOut: true
@@ -46,7 +46,7 @@ export default {
         { 
           id: 3, 
           title: "Italian Pasta Workshop",
-          chef: "Chef Romano",
+          chef: "Chef Bruno",
           price: 380,
           level: "Intermediate",
           soldOut: false
