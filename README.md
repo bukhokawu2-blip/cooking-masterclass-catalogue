@@ -19,8 +19,7 @@ npm run dev
 ---
 
 ## 📸 Screenshot
-
-![App Screenshot](src/assets/Screenshot (264).png)
+![Screenshot](src\assets\Screenshot (264).png)
 
 ---
 
