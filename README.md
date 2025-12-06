@@ -19,7 +19,7 @@ npm run dev
 ---
 
 ## 📸 Screenshot
-![Screenshot](src\assets\Screenshot (264).png)
+![Screenshot](cooking-masterclass.png)
 
 ---
 
